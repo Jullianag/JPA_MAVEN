@@ -1,3 +1,4 @@
-# JPA / MAVEN
+#ORM - Com JPA e Hibernate (Maven)
 
-Implementação Java com Mysql utilizando JPA / Maven (Sem Spring)
+Implementação Java utilizando JPA, Hibernate e o gerenciador de dependências Maven.
+Adiciona campos em uma tabela criada usando o Mysql.
